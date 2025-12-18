@@ -1,4 +1,3 @@
-````md
 # 🚀 OpenJDK Docker Image using Ubuntu
 
 ![Docker](https://img.shields.io/badge/Docker-✔-blue)
@@ -21,8 +20,6 @@ The entire project was executed using **Play with Docker (browser-based Docker e
 - 🐧 Ubuntu 22.04  
 - ☕ OpenJDK 17  
 - 🌐 Play with Docker (Browser-based)
-
-````
 
 ---
 
@@ -115,5 +112,4 @@ OpenJDK 64-Bit Server VM
 
 ⭐ If you like this project, give it a star!
 
-```
-```
+---
