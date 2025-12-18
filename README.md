@@ -52,7 +52,7 @@ docker build -t openjdk-ubuntu .
 ```
 
 📸 **Screenshot Placeholder**
-![Docker Build](Screenshot2025-12-19004257.png)
+![Docker Build](screen-1)
 
 ---
 
@@ -64,7 +64,7 @@ docker run --rm openjdk-ubuntu
 
 📸 **Screenshot Placeholder**
 ![Docker Run](image-1)
-![Docker Run](Screenshot2025-12-19004422.png)
+![Docker Run](screen-2)
 
 ---
 
