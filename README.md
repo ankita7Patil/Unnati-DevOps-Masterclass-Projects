@@ -51,7 +51,6 @@ CMD ["java", "-version"]
 docker build -t openjdk-ubuntu .
 ```
 
-📸 **Screenshot Placeholder**
 ![Docker Build](screen-1)
 
 ---
@@ -62,7 +61,6 @@ docker build -t openjdk-ubuntu .
 docker run --rm openjdk-ubuntu
 ```
 
-📸 **Screenshot Placeholder**
 ![Docker Run](image-1)
 ![Docker Run](screen-2)
 
@@ -78,7 +76,6 @@ OpenJDK Runtime Environment
 OpenJDK 64-Bit Server VM
 ```
 
-📸 **Screenshot Placeholder**
 ![Java Version](image-2)
 
 ---
